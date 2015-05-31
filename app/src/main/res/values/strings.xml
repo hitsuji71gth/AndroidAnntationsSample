@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">普通の電卓</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_before">BeforeActivity</string>
+    <string name="title_activity_after">AfterActivity</string>
+    <string name="btn_before">Before</string>
+    <string name="btn_after">After</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+    <string name="btn_Calc">Calc!</string>
+    <string name="sGj">Good Job!</string>
+    <string name="sCalsIs">電卓とは...</string>
+    <string name="sAppToCalc">計算することと見つけたり！</string>
+
+</resources>
